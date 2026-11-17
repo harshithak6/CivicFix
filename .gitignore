@@ -1,0 +1,12 @@
+
+venv/
+__pycache__/
+*.pyc
+
+.streamlit/secrets.toml
+
+complaints.json
+
+app_backup.py
+app_before_portals.py
+generate_admin_hash.py
